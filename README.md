@@ -1,3 +1,9 @@
+# About this project
+
+Start date: January 10, 2025
+
+I haven't used my web development skills in a while, so this project was created to revisit my skills and develop new ones.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
