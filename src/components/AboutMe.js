@@ -4,7 +4,7 @@ return(<>
     <h1 className="display-4"> Marja Katrina Celo Centina</h1>
 
     <h2>Yes, that's my full name</h2>
-    <h2>Applications programmer, computer science graduate, art appreciator</h2>
+    <h3>Applications programmer, fullstack developer, computer science graduate, art appreciator</h3>
 </div>
     
 </>);
