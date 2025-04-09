@@ -1,5 +1,5 @@
 import './App.css';
-import Nav from './components/Nav';
+import Header from './components/Header';
 import AboutMe from './components/AboutMe';
 import Footer from './components/Footer';
 import Carousel from './components/Carousel';
@@ -9,7 +9,7 @@ import Contacts from './components/Contacts';
 function App() {
   return (
     <div>
-      <Nav/>
+      <Header/>
       <AboutMe/>
       <Carousel/>
       <ResumePreview/>
